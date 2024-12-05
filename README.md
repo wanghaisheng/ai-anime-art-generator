@@ -1,4 +1,4 @@
-# AI Anime Art Generator
+# AI Anime outfit Generator
 
 Welcome to the codebase of the wonderful tool AI Anime Arg Generator!
 
